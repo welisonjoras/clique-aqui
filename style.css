@@ -1,0 +1,15 @@
+div {
+    position: relative;
+    top: 100px;
+    left: 500px;
+    
+}
+
+input [type=button] {
+    background-color: rgb(175, 64, 64);
+    height: 50px;
+}
+
+body {
+    margin: 0px;
+}
